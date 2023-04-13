@@ -2,7 +2,7 @@
 
 Submitted by: **Matthieu Felker**
 
-This web app: **insert description**
+This web app: **This app is a React-based web application built using Vite and Tailwind CSS. It utilizes Supabase, an open-source alternative to Firebase, as the backend to enable CRUD (Create, Read, Update, Delete) functionality for RPG character data. With this app, users can create and customize RPG characters with various attributes and stats, as well as edit and delete characters as needed. The app provides an easy-to-use interface and streamlined workflow for RPG enthusiasts to manage their character data.**
 
 Time spent: **8** hours spent in total
 
